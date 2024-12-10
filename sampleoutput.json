@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-12-03T12:07:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel strikes and Hezbollah mortar fire strain Lebanon ceasefire - BBC.com",
+    "description": "Lebanon says 11 people were killed in Israeli strikes after Hezbollah fired mortars at an Israeli army post.",
+    "url": "https://www.bbc.com/news/articles/c6273139ed4o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28e5/live/46c06a80-b175-11ef-a0f2-fd81ae5962f4.jpg",
+    "publishedAt": "2024-12-03T11:48:12Z",
+    "content": "Israeli soldiers on patrol in northern Israel, near the border with Lebanon\r\nDeadly Israeli air strikes and a mortar attack by Hezbollah have raised fears that the ceasefire in Lebanon could collapse… [+6014 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cartoon Brew"
+    },
+    "author": "Amid Amidi",
+    "title": "‘Moana 2’ Is Biggest Debut Ever For Walt Disney Animation Studios - Cartoon Brew",
+    "description": "'Moana 2' has surpassed the debut of 'Frozen 2' to become the storied animation studio's biggest launch ever.",
+    "url": "https://www.cartoonbrew.com/box-office-report/moana-2-is-biggest-debut-ever-for-walt-disney-animation-studios-244025.html",
+    "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2024/12/moana2_boxoffice.jpg",
+    "publishedAt": "2024-12-03T11:45:20Z",
+    "content": "Walt Disney Animation Studios has scored its biggest domestic animation debut of all time with Moana 2. The films three-day weekend debut of $135.5 million, and five-day total of $221 million are bot… [+2044 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "ELAINE KURTENBACH",
+    "title": "China bans exports to US of gallium, germanium, antimony in response to chip sanctions - The Associated Press",
+    "description": "China has announced a ban on exports to the United States of gallium, germanium and other key high-tech materials with potential military applications. The Chinese Commerce Ministry announced the move after the Washington expanded its list of Chinese companie…",
+    "url": "https://apnews.com/article/china-us-tech-semiconductor-chip-gallium-6b4216551e200fb719caa6a6cc67e2a4",
+    "urlToImage": "https://dims.apnews.com/dims4/default/c2114c8/2147483647/strip/true/crop/6154x3462+0+321/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2F89%2F27772f17c977f079abcfc1e998f4%2Fad755cfa20f14e2a8a73a30b741a6fea",
+    "publishedAt": "2024-12-03T11:17:00Z",
+    "content": "BANGKOK (AP) China announced Tuesday it is banning exports to the United States of gallium, germanium, antimony and other key high-tech materials with potential military applications, as a general pr… [+5063 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Mostafa Salem",
+    "title": "Syrian rebels have taken Aleppo, the country’s second biggest city. Here’s who they are - CNN",
+    "description": "Eight years ago, Syria’s civil war shifted in President Bashar Al-Assad’s favor after a Russian blitzkrieg on Aleppo helped him regain control over the country’s second biggest city.",
+    "url": "https://www.cnn.com/2024/12/02/middleeast/rebel-groups-syria-explainer-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2186770950.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-12-03T09:52:00Z",
+    "content": "Eight years ago, Syrias civil war shifted in President Bashar Al-Assads favor after a Russian blitzkrieg on Aleppo helped him regain control over the countrys second biggest city.\r\nIn just over 72-ho… [+3926 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "PAT GRAHAM",
+    "title": "McMillian's pick 6 helps Broncos spoil career nights by Winston, Jeudy and beat Browns 41-32 - The Associated Press",
+    "description": "Ja’Quan McMillian returned an interception for a game-sealing 44-yard touchdown with 1:48 remaining, and the Denver Broncos spoiled career-best performances by Cleveland quarterback Jameis Winston and receiver Jerry Jeudy, beating the Browns 41-32. Winston th…",
+    "url": "https://apnews.com/article/browns-broncos-score-dffc0abb169edc9e76fe7204334d6f9d",
+    "urlToImage": "https://dims.apnews.com/dims4/default/cfcec84/2147483647/strip/true/crop/3152x1773+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2d%2Fc8%2Fb3f58fc450075c9be6c27da28a48%2Fc6b33ae372e242e1ae90fb1f8936328f",
+    "publishedAt": "2024-12-03T07:29:00Z",
+    "content": "DENVER (AP) Jameis Winston had a night to remember and one to forget.\r\nJaQuan McMillian returned an interception 44 yards for a game-sealing touchdown with 1:48 remaining, and Denver spoiled career-b… [+4948 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Teslarati"
+    },
+    "author": "Joey Klender",
+    "title": "Tesla CEO Elon Musk denied $56bn pay package once again by Delaware judge - TESLARATI",
+    "description": "Tesla CEO Elon Musk was once again denied the $56 billion pay package by Delaware Chancellor Kathaleen McCormick, who previously ruled the sum should not be paid to Musk.",
+    "url": "https://www.teslarati.com/tesla-ceo-elon-musk-denied-56bn-pay-package-once-again-by-delaware-judge/",
+    "urlToImage": "https://www.teslarati.com/wp-content/uploads/2022/12/elon-musk-model-3-unveiling-event-mar-31.jpeg",
+    "publishedAt": "2024-12-03T07:01:49Z",
+    "content": "Tesla CEO Elon Musk was once again denied the $56 billion pay package by Delaware Chancellor Kathaleen McCormick, who previously ruled the sum should not be paid to Musk.\r\nTesla shareholders voted af… [+2488 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Giulio Piovaccari, Alessandro Parodi",
+    "title": "Tavares clashed with Stellantis board over revival plan, sources say - Reuters",
+    "description": "Outgoing CEO Carlos Tavares clashed with Stellantis' board over his plans to quickly turn around the ailing U.S. business by cutting costs, rather than focusing on long-term strategy, investors and bankers familiar with the matter said on Monday.",
+    "url": "https://www.reuters.com/business/autos-transportation/tavares-clashed-with-stellantis-board-over-revival-plan-sources-say-2024-12-02/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/NQMS2MPZSVOIXPGZ3L36JG3VHM.jpg?auth=03efc0d2e2341aa46193f09202c94a31d24bf59660740963a5d89aff822eb5ce&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-12-03T05:59:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Hilary Lewis, Kirsten Chuba",
+    "title": "2024 Gotham Awards: ‘A Different Man’ Wins Best Feature as ‘Nickel Boys,’ ‘Sing Sing’ Each Take Two - Hollywood Reporter",
+    "description": "Sean Baker's 'Anora' went into the night with the most nominations, four, but went home empty-handed.",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/gotham-awards-2024-winners-list-1236074890/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/A-Different-Man-Sebastian-Stan-Renate-Reinsve-Adam-Pearson-Faces-Off-LLC.jpg?w=1440&h=810&crop=1",
+    "publishedAt": "2024-12-03T04:39:31Z",
+    "content": "A Different Manwon best feature at the 2024 Gotham Awards, while Nickel Boys and Sing Singeach won two awards at the star-studded ceremony at New York’s Cipriani Wall Street on Monday night.\r\nA Diffe… [+12115 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Blake Silverman",
+    "title": "Blue Jays Expected to Be Highest Bidders for Juan Soto in Free Agency - Sports Illustrated",
+    "description": "There is reportedly widespread belief  among other suitors that the Blue Jays will have the highest offer for Juan Soto.",
+    "url": "https://www.si.com/mlb/blue-jays-highest-bidders-juan-soto-free-agency",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5890,h_3313,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01je57physsw9x2gtr6r.jpg",
+    "publishedAt": "2024-12-03T03:30:55Z",
+    "content": "The Juan Soto sweepstakes is the MLB offseason's largest domino that has yet to fall.\r\nSoto is fielding offers from a multitude of teams, including the Toronto Blue Jays, who were thought of as a dar… [+1348 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "US woman admits drink-driving in crash that killed bride on wedding day - BBC.com",
+    "description": "Samantha Miller was fatally hit while travelling in a golf cart and still wearing her wedding dress.",
+    "url": "https://www.bbc.com/news/articles/c3wepqnypg5o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7824/live/49b74f40-b168-11ef-a634-5dd77624ee4e.png",
+    "publishedAt": "2024-12-03T03:28:06Z",
+    "content": "A US woman has pleaded guilty to drink-driving charges over an incident in which she killed a newlywed bride who was travelling in a golf cart on her wedding night.\r\nJamie Lee Komoroski was sentenced… [+1979 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Christian McCaffrey knee injury update: 49ers RB expected to miss six weeks after being placed on IR - CBS Sports",
+    "description": "The star running back was injured in Sunday night's blowout loss to the Bills",
+    "url": "https://www.cbssports.com/nfl/news/christian-mccaffrey-knee-injury-update-49ers-rb-expected-to-miss-six-weeks-after-being-placed-on-ir/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/02/fb16728e-43a6-4050-9ed9-1ff6f7a2e6ce/thumbnail/1200x675/ee03d516fa6d2bf46d1a61d854632fd6/cmc-jpeg.jpg",
+    "publishedAt": "2024-12-03T03:18:00Z",
+    "content": "Achilles tendinitis robbed San Francisco 49ers star Christian McCaffrey of the first eight games of the 2024 NFL season. A knee injury knocked the running back out of Sunday night's Week 13 matchup w… [+1483 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-12-03T03:04:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "JILL COLVIN",
+    "title": "Trump says he’ll attend Notre Dame Cathedral reopening celebration in Paris this weekend - The Associated Press",
+    "description": "President-elect Donald Trump will attend the reopening celebration for Notre Dame Cathedral in Paris this weekend, his first foreign trip since the election. The cathedral will reopen after more than five years of reconstruction following a devastating 2019 f…",
+    "url": "https://apnews.com/article/trump-paris-notre-dame-macron-32d9086e3d2f21ae871f5bb1120929be",
+    "urlToImage": "https://dims.apnews.com/dims4/default/6598078/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F39%2F8f95c8afebc59dcd6305970c38f7%2F077fee9cc52541c9a1ae8ffe86ed3cbb",
+    "publishedAt": "2024-12-03T02:27:00Z",
+    "content": "NEW YORK (AP) President-elect Donald Trump will attend the reopening celebration for Notre Dame Cathedral in Paris this weekend, his first foreign trip since the election.\r\nThe cathedral is set to re… [+5551 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Alison Herman",
+    "title": "‘Star Wars: Skeleton Crew’ and a Delightful Jude Law Take the Franchise Back to Its Kid-Friendly Roots: TV Review - Variety",
+    "description": "Jude Law stars in 'Star Wars: Skeleton Crew', the first of its Disney+ series to return the franchise to its kid-friendly roots.",
+    "url": "https://variety.com/2024/tv/tv-reviews/star-wars-skeleton-crew-review-jude-law-1236232682/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/12/GR-053295_R1.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-12-03T02:00:00Z",
+    "content": "“Star Wars” has always been, on some level, for children. That’s neither condescension nor criticism: George Lucas created a swashbuckling fairy tale set in space, and its mantle has been taken up by… [+5263 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Virginia man charged with murder 4 months after his wife’s disappearance - The Associated Press",
+    "description": "Police in Virginia say a man has been charged with murder more than four months after his wife disappeared. Naresh Bhatt was indicted Monday by a Prince William County grand jury. The body of his wife, Mamta Bhatt, has not been found. But police in Manassas P…",
+    "url": "https://apnews.com/article/virginia-missing-woman-mamta-bhatt-27c897bb32b4f35567c69c482e8c05b6",
+    "urlToImage": "https://dims.apnews.com/dims4/default/446e09d/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F9b%2F938f5ea382fd3d32e38f64791e49%2F6f03a82fa152437e861e7b366e718560",
+    "publishedAt": "2024-12-03T01:48:00Z",
+    "content": "MANASSAS PARK, Va. (AP) A Virginia man has been charged with murder more than four months after his wife disappeared and a substantial amount of blood was found in their suburban Washington home, aut… [+2666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Hawaii woman Hannah Kobayashi spotted entering Mexico - police - BBC.com",
+    "description": "Police say Ms Kobayashi is now considered to be \"voluntarily missing\" and is not in danger.",
+    "url": "https://www.bbc.com/news/articles/c5y7819j500o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc9e/live/b1b2f560-b120-11ef-84fd-d9a0b92c1a7f.jpg",
+    "publishedAt": "2024-12-03T01:26:34Z",
+    "content": "A woman from Hawaii who was reported missing in Los Angeles by her family last month was last seen by US authorities safely crossing the southern US border into Mexico, the Los Angeles Police Departm… [+2186 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Stef W. Kight",
+    "title": "GOP senators defend Hegseth after private meeting - Axios",
+    "description": "\"He's clearly committed to making sure we have a lethal military that scares the crap out of our enemies.\"",
+    "url": "https://www.axios.com/2024/12/03/senators-pete-hegseth-defense-secretary-trump",
+    "urlToImage": "https://images.axios.com/WM4HgECnJTLVIdV-RZnDV6iqqc0=/0x175:5874x3479/1366x768/2024/12/03/1733187235641.jpg",
+    "publishedAt": "2024-12-03T01:14:35Z",
+    "content": "Conservative senators offered a full-throated defense of embattled Defense Secretary nominee Pete Hegseth after a closed door meeting with him Monday night.\r\nWhy it matters: Hegseth is facing fresh r… [+1756 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TheStreet"
+    },
+    "author": "Jeremy Salvucci",
+    "title": "Pat Gelsinger: The Intel CEO’s net worth & salary as he steps down - TheStreet",
+    "description": "Here's how much Intel CEO Pat Gelsner is worth as he steps down from the helm of the chipmaker, whose shares have lost around 61% of their value during his tenure.",
+    "url": "https://www.thestreet.com/personalities/pat-gelsinger-net-worth",
+    "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjExMTI0ODUyODI2ODQyNjEy/pat-gelsinger-waving.jpg",
+    "publishedAt": "2024-12-03T01:03:12Z",
+    "content": "Contents\r\nPat Gelsinger, who had served as the CEO of chipmaker Intel since February of 2021, stepped down from the company on December 1st, 2024. Intel’s board reportedly gave Gelsinger, who previou… [+5178 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple's 2026 Foldable iPhone Could Reinvigorate Stalling Market - MacRumors",
+    "description": "The foldable smartphone market has stalled with customer interest in foldables waning, but that could change when Apple debuts a foldable iPhone,...",
+    "url": "https://www.macrumors.com/2024/12/02/apple-2026-foldable-iphone/",
+    "urlToImage": "https://images.macrumors.com/t/NX26og8080ks3W9arnuZHIaVY1A=/2500x/article-new/2024/07/Flip-iPhone-Thumb-2.jpg",
+    "publishedAt": "2024-12-03T00:04:00Z",
+    "content": "The foldable smartphone market has stalled with customer interest in foldables waning, but that could change when Apple debuts a foldable iPhone, according to display analyst Ross Young.\r\nIn a report… [+946 chars]"
+    }
+    ]
+    }
